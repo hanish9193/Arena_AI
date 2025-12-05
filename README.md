@@ -34,7 +34,7 @@
 
 ## The Problem
 
-![Arena AI Concept](./screenshots/Screenshot-2025-12-05-213511.png)
+![Arena AI Concept](./screenshots/Screenshot-2025 12-05-213511.png)
 
 Ask any question to different AI models, and you'll get different answers:
 
