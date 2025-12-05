@@ -34,6 +34,8 @@
 
 ## The Problem
 
+![Arena AI Concept](./screenshots/Screenshot-2025-12-05-213511.png)
+
 Ask any question to different AI models, and you'll get different answers:
 
 <table>
@@ -64,6 +66,8 @@ Ask any question to different AI models, and you'll get different answers:
 ---
 
 ## The Solution
+
+![Debate Flow](./screenshots/Screenshot-2025-12-05-210549.png)
 
 ```
 USER QUESTION
@@ -179,6 +183,8 @@ ollama list  # Should show all four models
 
 ## Quick Start
 
+![Installation Process](./screenshots/Screenshot-2025-12-05-213722.png)
+
 ### Basic Debate
 
 ```bash
@@ -272,6 +278,8 @@ Debate saved to: debates/typescript-debate-20241205-143218.json
 
 ## How It Works
 
+![Debate Engine Architecture](./screenshots/Screenshot-2025-12-05-213732.png)
+
 ### The Debate Engine
 
 Arena AI orchestrates structured debates between multiple language models:
@@ -305,6 +313,8 @@ Arena AI orchestrates structured debates between multiple language models:
 
 ### Architecture
 
+![System Architecture](./screenshots/Screenshot-2025-12-05-213741.png)
+
 ```
 arena_ai/
 │
@@ -329,6 +339,8 @@ arena_ai/
 ---
 
 ## API Reference
+
+![API Examples](./screenshots/Screenshot-2025-12-05-213749.png)
 
 ### Command Line Interface
 
